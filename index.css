@@ -1,0 +1,19 @@
+.name{
+    color: red;
+    background-color: black;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.body-class{
+    background-color: brown;
+    border: 5px solid white;
+    padding: 20px;
+}
+.prince{
+    color:white;
+    text-align: center;
+    background-color: navy;
+    padding: 15px;
+    border-radius: 10px;
+}
